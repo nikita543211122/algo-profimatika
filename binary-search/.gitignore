@@ -1,0 +1,6 @@
+solution
+*.out
+*.exe
+__pycache__/
+.vscode/
+.idea/
